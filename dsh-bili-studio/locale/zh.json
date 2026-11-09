@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "B 站工作室",
+    "description": "选题、写脚本、出片、审批、投稿一条链；按每周节奏自动制作，发布前必须人工点头。"
+  },
+  "panel": {
+    "title": "B 站工作室",
+    "tabSchedule": "节奏",
+    "tabContent": "内容",
+    "tabAccount": "账号",
+    "tabQueue": "队列",
+    "save": "保存",
+    "saved": "已保存",
+    "perWeek": "每周发布几条",
+    "windows": "允许制作的时段",
+    "timezone": "时区",
+    "tid": "默认分区",
+    "tags": "默认标签",
+    "descTemplate": "简介模板",
+    "coverStyle": "封面配色",
+    "loginStatus": "登录状态",
+    "scanLogin": "扫码登录",
+    "logout": "退出登录",
+    "pending": "待制作",
+    "review": "待审",
+    "published": "已发布",
+    "buildNow": "现在做",
+    "skip": "跳过",
+    "approve": "同意发布",
+    "editTitle": "改标题",
+    "refresh": "刷新"
+  }
+}

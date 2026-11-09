@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Bilibili studio",
+    "description": "Topic, script, render, review, and upload in one chain; builds on a weekly cadence and never publishes without a human approval."
+  },
+  "panel": {
+    "title": "Bilibili studio",
+    "tabSchedule": "Cadence",
+    "tabContent": "Content",
+    "tabAccount": "Account",
+    "tabQueue": "Queue",
+    "save": "Save",
+    "saved": "Saved",
+    "perWeek": "Videos per week",
+    "windows": "Build windows",
+    "timezone": "Time zone",
+    "tid": "Default category",
+    "tags": "Default tags",
+    "descTemplate": "Description template",
+    "coverStyle": "Cover palette",
+    "loginStatus": "Sign-in state",
+    "scanLogin": "Scan to sign in",
+    "logout": "Sign out",
+    "pending": "To build",
+    "review": "Awaiting review",
+    "published": "Published",
+    "buildNow": "Build now",
+    "skip": "Skip",
+    "approve": "Approve publish",
+    "editTitle": "Edit title",
+    "refresh": "Refresh"
+  }
+}

@@ -1,0 +1,7 @@
+# dsh-bili-studio bundle patch
+#
+# 通过 plugin_manager install_bundle 安装时，下面这一行会挂到宿主 Cordis 树上。
+# 不要手改 profile 的 cordis.patch.yml / node_modules。
+- insert:
+    - id: bili-studio
+      name: 'dsh-bili-studio'

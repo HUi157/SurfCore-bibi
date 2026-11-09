@@ -1,0 +1,10 @@
+{
+  "id": "dsh-bili-studio",
+  "name": "B 站工作室",
+  "version": "0.1.0",
+  "description": "把 dsh-bili-studio 的做片/排期/待审/审批接口挂到 SurfCore 的扩展路由上（只转发，不碰凭证）",
+  "entry": "index.js",
+  "enabled": false,
+  "capabilities": ["actions", "routes"],
+  "platforms": ["bili"]
+}
